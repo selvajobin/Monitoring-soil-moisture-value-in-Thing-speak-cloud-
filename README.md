@@ -1,7 +1,7 @@
-# NAME:SELVA JOBIN S
-# REG. NO. : 212223220102
-# EX NO :5
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+ NAME:SELVA JOBIN S
+ 
+ REG NO : 212223220102
+# EX NO :5 Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
